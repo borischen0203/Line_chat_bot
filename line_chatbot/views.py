@@ -3,13 +3,13 @@ from linebot import LineBotApi, WebhookHandler
 from linebot.exceptions import InvalidSignatureError
 from linebot.models import MessageEvent, TextMessage
 
-line_bot_api = LineBotApi('YOUR_CHANNEL_ACCESS_TOKEN')
-handler = WebhookHandler('YOUR_CHANNEL_SECRET')
+line_bot_api = LineBotApi('xNFX6oUap2qKVSk1ImnTOMcjECTJDVLy4SeoTlPxu7k/8fHeGuMC2M2IhA4AeWLEsliEgpTM1cAXLIyFRpT2sbwOCpWytK2YOFc+gSDX+s/zvzsv6T/tknM/bhY7NxD6EPL0StbtPr+7DCtua8L83wdB04t89/1O/w1cDnyilFU=')
+handler = WebhookHandler('7d01a80ca09355c3c706041f1d6aa1b0')
 
 def line_webhook(request):
     if request.method == 'POST':
         signature = request.headers['X-Line-Signature']
-        body = request.body.decode('utf-8')
+        body = request.body.decode()
         try:
             handler.handle(body, signature)
         except InvalidSignatureError:

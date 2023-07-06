@@ -17,8 +17,9 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from line_chatbot.views import line_webhook
+from django.views.decorators.csrf import csrf_exempt
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('line/webhook/', line_webhook, name='line_webhook')
+    path('line/webhook/', csrf_exempt(line_webhook), name='line_webhook')
 ]
