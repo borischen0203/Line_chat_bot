@@ -11,21 +11,14 @@ handler = WebhookHandler("ba98c88fab9fdec489f9b5bb31e53fe0")
 
 def line_webhook(request):
     if request.method == "POST":
-        url = "https://c0dc-2001-b400-e207-f782-b559-1684-ccdb-8024.ngrok-free.app/line/webhook/"
-        csrf_token = request.COOKIES[
-            "csrftoken"
-        ]  # Obtain the CSRF token from the request's cookies
-
-        headers = {"X-CSRFToken": csrf_token}
-        response = requests.post(url, headers=headers)
-
-        body = request.body.decode("utf-8")
+        signature = request.headers["X-Line-Signature"]
+        body = request.body.decode()
         try:
             handler.handle(body, signature)
         except InvalidSignatureError:
-            return HttpResponse(status=200)
+            return HttpResponse(status=400)
         return HttpResponse(status=200)
-    return HttpResponse(status=200)
+    return HttpResponse(status=405)
 
 
 @handler.add(MessageEvent, message=TextMessage)
