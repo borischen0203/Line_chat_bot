@@ -13,15 +13,13 @@ Class-based views
 Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
-# """
-# from django.contrib import admin
-# from django.urls import path
-
-# urlpatterns = [
-#     path('admin/', admin.site.urls),
-# ]
-from django.urls import include, path
+"""
+from django.contrib import admin
+from django.urls import path
+from line_chatbot.views import line_webhook
+from django.views.decorators.csrf import csrf_exempt
 
 urlpatterns = [
-    path('chatbot/', include('chatbot.urls')),
+    path("admin/", admin.site.urls),
+    path("line/webhook/", csrf_exempt(line_webhook), name="line_webhook"),
 ]
