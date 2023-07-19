@@ -1,0 +1,6002 @@
+[
+    {
+        "University": "Harvard University",
+        "Ranking": "1",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Stanford University",
+        "Ranking": "2",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Massachusetts Institute of Technology (MIT)",
+        "Ranking": "3",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Cambridge",
+        "Ranking": "4",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, Berkeley",
+        "Ranking": "5",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Princeton University",
+        "Ranking": "6",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Oxford",
+        "Ranking": "7",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Columbia University",
+        "Ranking": "8",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "California Institute of Technology",
+        "Ranking": "9",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Chicago",
+        "Ranking": "10",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Yale University",
+        "Ranking": "11",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Cornell University",
+        "Ranking": "12",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, Los Angeles",
+        "Ranking": "13",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Johns Hopkins University",
+        "Ranking": "14",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Pennsylvania",
+        "Ranking": "15",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Paris-Saclay University",
+        "Ranking": "16",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Washington",
+        "Ranking": "17",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University College London",
+        "Ranking": "18",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, San Francisco",
+        "Ranking": "19",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "ETH Zurich",
+        "Ranking": "20",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, San Diego",
+        "Ranking": "21",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Toronto",
+        "Ranking": "22",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Imperial College London",
+        "Ranking": "23",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Tokyo",
+        "Ranking": "24",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "New York University",
+        "Ranking": "25",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tsinghua University",
+        "Ranking": "26",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Washington University in St. Louis",
+        "Ranking": "27",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Michigan-Ann Arbor",
+        "Ranking": "28",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of North Carolina at Chapel Hill",
+        "Ranking": "29",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northwestern University",
+        "Ranking": "30",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Duke University",
+        "Ranking": "31",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Melbourne",
+        "Ranking": "32",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Wisconsin - Madison",
+        "Ranking": "33",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Peking University",
+        "Ranking": "34",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Edinburgh",
+        "Ranking": "35",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Zhejiang University",
+        "Ranking": "36",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Texas at Austin",
+        "Ranking": "37",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Manchester",
+        "Ranking": "38",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Copenhagen",
+        "Ranking": "39",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "PSL University",
+        "Ranking": "40",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Karolinska Institute",
+        "Ranking": "41",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kyoto University",
+        "Ranking": "41",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sorbonne University",
+        "Ranking": "43",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Rockefeller University",
+        "Ranking": "44",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of British Columbia",
+        "Ranking": "44",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Minnesota, Twin Cities",
+        "Ranking": "44",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Queensland",
+        "Ranking": "47",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "King's College London",
+        "Ranking": "48",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Illinois at Urbana-Champaign",
+        "Ranking": "49",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Maryland, College Park",
+        "Ranking": "50",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Colorado at Boulder",
+        "Ranking": "51",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Texas Southwestern Medical Center at Dallas",
+        "Ranking": "52",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Southern California",
+        "Ranking": "53",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shanghai Jiao Tong University",
+        "Ranking": "54",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Utrecht University",
+        "Ranking": "54",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Technical University of Munich",
+        "Ranking": "56",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, Santa Barbara",
+        "Ranking": "57",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Munich",
+        "Ranking": "57",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Zurich",
+        "Ranking": "59",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Sydney",
+        "Ranking": "60",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, Irvine",
+        "Ranking": "61",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Geneva",
+        "Ranking": "62",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Science and Technology of China",
+        "Ranking": "62",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of New South Wales",
+        "Ranking": "64",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Vanderbilt University",
+        "Ranking": "64",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Groningen",
+        "Ranking": "66",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Fudan University",
+        "Ranking": "67",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Oslo",
+        "Ranking": "67",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Aarhus University",
+        "Ranking": "69",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Heidelberg University",
+        "Ranking": "70",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National University of Singapore",
+        "Ranking": "71",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Texas M. D. Anderson Cancer Center",
+        "Ranking": "71",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "McGill University",
+        "Ranking": "73",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ghent University",
+        "Ranking": "74",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Monash University",
+        "Ranking": "75",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bonn",
+        "Ranking": "76",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Hebrew University of Jerusalem",
+        "Ranking": "77",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Université Paris Cité",
+        "Ranking": "78",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sun Yat-sen University",
+        "Ranking": "79",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Australian National University",
+        "Ranking": "79",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bristol",
+        "Ranking": "81",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Pittsburgh",
+        "Ranking": "82",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Purdue University - West Lafayette",
+        "Ranking": "83",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Technion-Israel Institute of Technology",
+        "Ranking": "83",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Basel",
+        "Ranking": "83",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Weizmann Institute of Science",
+        "Ranking": "83",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Erasmus University Rotterdam",
+        "Ranking": "87",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanyang Technological University",
+        "Ranking": "88",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Uppsala University",
+        "Ranking": "89",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "McMaster University",
+        "Ranking": "90",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Stockholm University",
+        "Ranking": "90",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Alberta",
+        "Ranking": "92",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Helsinki",
+        "Ranking": "92",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Florida",
+        "Ranking": "94",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "KU Leuven",
+        "Ranking": "95",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Huazhong University of Science and Technology",
+        "Ranking": "96",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Hong Kong",
+        "Ranking": "96",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Seoul National University",
+        "Ranking": "98",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Brown University",
+        "Ranking": "99",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Western Australia",
+        "Ranking": "99",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Aix Marseille University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Arizona State University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Boston University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Carnegie Mellon University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Case Western Reserve University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Central South University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Emory University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Icahn School of Medicine at Mount Sinai",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Indiana University Bloomington",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "King Abdulaziz University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "King Saud University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Leiden University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "London School of Economics and Political Science",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Mayo Clinic Alix School of Medicine",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Moscow State University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nagoya University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Norwegian University of Science and Technology - NTNU",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Radboud University Nijmegen",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Rice University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Rutgers, The State University of New Jersey - New Brunswick",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sapienza University of Rome",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sichuan University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Swiss Federal Institute of Technology Lausanne",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Chinese University of Hong Kong",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Ohio State University - Columbus",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Pennsylvania State University - University Park",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Adelaide",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Glasgow",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Sheffield",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Université Grenoble Alpes",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Université libre de Bruxelles (ULB)",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Amsterdam",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Arizona",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bern",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Birmingham",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, Davis",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Exeter",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Freiburg",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Gothenburg",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Lausanne",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Liverpool",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Montreal",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Nottingham",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Sao Paulo",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Strasbourg",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Utah",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Warwick",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Wuhan University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Xi'an Jiaotong University",
+        "Ranking": "101-150",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Baylor College of Medicine",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Beijing Institute of Technology",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Cardiff University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "City University of Hong Kong",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Delft University of Technology",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Georgia Institute of Technology",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Goethe University Frankfurt",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Harbin Institute of Technology",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Jilin University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "London School of Hygiene & Tropical Medicine",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Lund University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Michigan State University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northwestern Polytechnical University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Osaka University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shandong University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Soochow University (China)",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "South China University of Technology",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southeast University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southern University of Science and Technology",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Technical University of Denmark",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tel Aviv University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Texas A&M University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Hong Kong Polytechnic University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Calgary",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tianjin University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tohoku University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tokyo Institute of Technology",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tongji University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Trinity College Dublin",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tufts University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Barcelona",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, Santa Cruz",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Cologne",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Electronic Science and Technology of China",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Goettingen",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Leeds",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Massachusetts Amherst",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Milan",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Montpellier",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Padua",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Pisa",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Rochester",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Southampton",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Sussex",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tuebingen",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Vienna",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Waterloo",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Vrije Universiteit Amsterdam",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Wageningen University & Research",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Xiamen University",
+        "Ranking": "151-200",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Autonomous University of Barcelona",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Beihang University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Beijing Normal University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Catholic University of Louvain",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China Agricultural University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China Medical University (Taichung)",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chongqing University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Claude Bernard University Lyon 1",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Colorado State University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Complutense University of Madrid",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Curtin University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Dalian University of Technology",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Deakin University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "East China Normal University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Florida State University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "George Mason University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Griffith University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hanyang University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hokkaido University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hunan University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Jiangsu University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Karlsruhe Institute of Technology (KIT)",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "King Abdullah University of Science and Technology",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Korea Advanced Institute of Science and Technology",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Korea University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "KTH Royal Institute of Technology",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "La Trobe University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Maastricht University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Macquarie University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Medical University of Vienna",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing Medical University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nankai University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Autonomous University of Mexico",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Taiwan University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Newcastle University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "North Carolina State University - Raleigh",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northeastern University (Boston)",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Oregon Health and Science University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Oregon State University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Paul Sabatier University (Toulouse 3)",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Polytechnic University of Milan",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Queen Mary University of London",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Queen's University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Queensland University of Technology",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "RWTH Aachen University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shanghai University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shenzhen University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sungkyunkwan University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Swinburne University of Technology",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The George Washington University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Auckland",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "TU Dresden",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ulsan National Institute of Science and Technology",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Aberdeen",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Antwerp",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bologna",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bordeaux",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Buenos Aires",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, Riverside",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Cape Town",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Colorado at Denver",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Delaware",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of East Anglia",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Erlangen-Nuremberg",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Granada",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Hamburg",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Houston",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Iowa",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Kansas",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Kiel",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Leipzig",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Lisbon",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Lorraine",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Mainz",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Manitoba",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Massachusetts Medical School - Worcester",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Miami",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Missouri - Columbia",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Muenster",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Naples Federico II",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Nebraska - Lincoln",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Ottawa",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Porto",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Science and Technology Beijing",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of South Florida",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Southern Denmark",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tasmania",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Technology Sydney",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tennessee - Knoxville",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tsukuba",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Turin",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Valencia",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Virginia",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Wollongong",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Wuerzburg",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Virginia Commonwealth University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Virginia Polytechnic Institute and State University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Western University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Yonsei University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Zhengzhou University",
+        "Ranking": "201-300",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Aalborg University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Aalto University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Albert Einstein College of Medicine",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Autonomous University of Madrid",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Bar-Ilan University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Beijing University of Chemical Technology",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Brandeis University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Cairo University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Capital Medical University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Catholic University of the Sacred Heart",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Charles University in Prague",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China University of Geosciences (Wuhan)",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Peking Union Medical College",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Dalhousie University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Dartmouth College",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Drexel University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Durham University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "East China University of Science and Technology",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ecole Normale Superieure - Lyon",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Eindhoven University of Technology",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Fuzhou University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Heinrich Heine University Duesseldorf",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Huazhong Agricultural University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Indian Institute of Science",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Indiana University-Purdue University at Indianapolis",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Institut Polytechnique de Paris",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "James Cook University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Jinan University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Keio University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kyushu University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Lancaster University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Lanzhou University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Laval University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Linkoping University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanchang University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing Agricultural University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "NanJing Tech University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing University of Aeronautics and Astronautics",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing University of Science and Technology",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National and Kapodistrian University of Athens",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Cheng Kung University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northeastern University (Shenyang)",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ocean University of China",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Pohang University of Science and Technology",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Pompeu Fabra University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Queen's University Belfast",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "RMIT University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Saint Petersburg State University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "ShanghaiTech University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Simon Fraser University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Stony Brook University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Swedish University of Agricultural Sciences",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Technical University of Berlin",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Hong Kong University of Science and Technology",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Dundee",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Georgia",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Newcastle, Australia",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Reading",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Texas at Dallas",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Texas Health Science Center at Houston",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University at Buffalo, the State University of New York",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University College Cork",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University College Dublin",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Alabama at Birmingham",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bergen",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bochum",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Campinas",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Central Florida",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Cincinnati",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Connecticut",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Duisburg-Essen",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Florence",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Hawaii at Manoa",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Illinois at Chicago",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Innsbruck",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Kentucky",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Leicester",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Liege",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Lille",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Malaya",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Maryland, Baltimore",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Milano-Bicocca",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Notre Dame",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Oregon",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Otago",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Saskatchewan",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of St Andrews",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Stuttgart",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Surrey",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tehran",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of the Basque Country",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of the Witwatersrand",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Toulouse 1",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Ulm",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Victoria",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Vienna University of Technology",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Vrije Universiteit Brussel (VUB)",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Washington State University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Western Sydney University",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Wuhan University of Technology",
+        "Ranking": "301-400",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Beijing University of Technology",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ben-Gurion University of the Negev",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Boston College",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Brigham Young University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chalmers University of Technology",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chang Gung University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China University of Geosciences (Beijing)",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China University of Mining and Technology - Xuzhou",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China University of Petroleum (Huadong)",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "CUNY Graduate School and University Center",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Minas Gerais",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Rio de Janeiro",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Rio Grande do Sul",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Flinders University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Florida International University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Georgetown University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Guangdong University of Technology",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hannover Medical School",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hiroshima University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Humanitas University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Istanbul University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Jagiellonian University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Jiangnan University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "King Fahd University of Petroleum & Minerals",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kobe University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kyung Hee University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kyungpook National University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Louisiana State University - Baton Rouge",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Masaryk University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Medical University of Innsbruck",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Medical University of South Carolina",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Murdoch University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing University of Information Science and Technology",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Tsing Hua University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National University of Malaysia",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Yang Ming Chiao Tung University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northwest A&F University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Okayama University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Polytechnic University of Valencia",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Qingdao University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Rensselaer Polytechnic Institute",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sejong University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shandong University of Science and Technology",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southern Medical University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Stellenbosch University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Stockholm School of Economics",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Taif University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tampere University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Technical University Darmstadt",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tehran University of Medical Sciences",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Temple University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Texas Tech University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The City College of New York",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Texas at San Antonio",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Texas Health Science Center at San Antonio",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Texas Medical Branch at Galveston",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "UNESP",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Aveiro",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bari",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bath",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Belgrade",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of California, Merced",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Canterbury",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Chile",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Essex",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Guelph",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Jena",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Johannesburg",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Kent",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Ljubljana",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Macau",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Maine",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Marburg",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Minho",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Natural Resources and Life Sciences, Vienna",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of North Texas",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Oulu",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Pavia",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Perugia",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Potsdam",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Pretoria",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Regensburg",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Santiago Compostela",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Seville",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of South Carolina - Columbia",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Strathclyde",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Trento",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Turku",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Twente",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Vermont",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Warsaw",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of York",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Zagreb",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Utah State University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Victoria University of Wellington",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Vita-Salute San Raffaele University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "West Virginia University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Yangzhou University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "York University",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Zhejiang University of Technology",
+        "Ranking": "401-500",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Alexandria University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Aristotle University of Thessaloniki",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Asia University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Auburn University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Australian Catholic University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Baylor University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Beijing Jiaotong University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Brescia University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Carleton University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China University of Petroleum - Beijing",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chonnam National University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chulalongkorn University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "COMSATS University Islamabad",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Concordia University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Duke-NUS Medical School",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Georgia State University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Guangxi University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Guangzhou Medical University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Guangzhou University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Harbin Engineering University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hefei University of Technology",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Henan University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hohai University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Iowa State University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kansas State University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Leibniz University Hannover",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Macau University of Science and Technology",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Medical University of Graz",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Mississippi State University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Moscow Institute of Physics and Technology",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing Normal University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National University of Ireland, Galway",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northern Arizona University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northwest University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "NOVA University Lisbon",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Oklahoma State University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Pontifical Catholic University of Chile",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Pusan National University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Qatar University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Renmin University of China",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Rush University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Saarland University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "San Diego State University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Scuola Normale Superiore - Pisa",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "South China Agricultural University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "South China Normal University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southwest Jiaotong University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southwest University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southwestern University of Finance and Economics",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "St George's, University of London",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Swansea University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tarbiat Modares University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of New Mexico - Albuquerque",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tianjin Medical University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Umea University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Università Della Svizzera Italiana",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Alaska - Fairbanks",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Arkansas at Fayetteville",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bremen",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Burgundy",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Catania",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Clermont Auvergne",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Coimbra",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Côte d'Azur",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Cyprus",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Fribourg",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Genoa",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Giessen",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Haifa",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Konstanz",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of KwaZulu-Natal",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Modena and Reggio Emilia",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Navarra",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Nevada - Reno",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of New Hampshire",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Oklahoma - Norman",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Palermo",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Parma",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Plymouth",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Roma - Tor Vergata",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Rostock",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Salamanca",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Science, Malaysia",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Sherbrooke",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of South Australia",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Southern Queensland",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tartu",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tromso",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Ulsan",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Verona",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Vigo",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Wyoming",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Zaragoza",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Wake Forest University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Wayne State University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Wenzhou Medical University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Xidian University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Yeungnam University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Yunnan University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Zhejiang Normal University",
+        "Ranking": "501-600",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "AGH University of Science and Technology",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Amirkabir University of Technology",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Anhui Medical University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Anhui University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Bangor University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Beijing University of Posts and Telecommunications",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Binghamton University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Brunel University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Central China Normal University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chang'an University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chiba University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China Medical University (Shenyang)",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Clemson University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Copenhagen Business School",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Edith Cowan University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Eotvos Lorand University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ewha Womans University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Parana",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Sao Carlos",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Sao Paulo",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Viçosa",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Guizhou University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hacettepe University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hangzhou Dianzi University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hasselt University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hong Kong Baptist University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "HSE University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hunan Normal University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "INHA University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Juntendo University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kent State University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "King Khalid University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kitasato University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kunming University of Science and Technology",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Liverpool John Moores University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Mahidol University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Mansoura University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Marche Polytechnic University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Massey University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing Forestry University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing University of Posts and Telecommunications",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Polytechnic Institute",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Sun Yat-Sen University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National University of Defense Technology",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Naval Medical University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ningbo University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northumbria University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "North-West University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nottingham Trent University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Orebro University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Polytechnic University of Madrid",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Polytechnic University of Turin",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Royal Holloway, University of London",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Saint Louis University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sechenov University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Semmelweis University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shaanxi Normal University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shandong Normal University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shanxi University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sharif University of Technology",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "State University of New York Health Science Center at Brooklyn",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Taipei Medical University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Chinese University of Hong Kong, Shenzhen",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Open University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Alabama - Tuscaloosa",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Texas at Arlington",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tilburg University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tokyo Medical and Dental University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tokyo University of Science",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ton Duc Thang University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tulane University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Universidad Pablo de Olavide",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Universitat Jaume I",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University at Albany (State University of New York)",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Alicante",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Crete",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Delhi",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Eastern Finland",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Extremadura",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Ferrara",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Graz",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Greenwich",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Halle-Wittenberg",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Health Sciences Turkey",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Iceland",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Idaho",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Maryland, Baltimore County",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Nantes",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Oldenburg",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Rennes 1",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Salerno",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Siena",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of the Sunshine Coast",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Trieste",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Versailles Saint-Quentin-en-Yvelines",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University Rovira i Virgili",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Vellore Institute of Technology",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Waseda University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Westlake University",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Xi'an University of Technology",
+        "Ranking": "601-700",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Addis Ababa University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ain Shams University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "American University of Beirut",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Army Medical University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "AUT University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Bielefeld University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Catholic University of Korea",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Changsha University of Science and Technology",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chiang Mai University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China University of Mining and Technology - Beijing",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chongqing Medical University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chung-Ang University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chungnam National University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Colorado School of Mines",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Comenius University in Bratislava",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Dalian Maritime University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Donghua University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Santa Catarina",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Fluminense Federal University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Fujian Agriculture and Forestry University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Fujian Medical University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Fujian Normal University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Harbin Medical University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Indian Institute of Technology Delhi",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Indian Institute of Technology Madras",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Indian Institute of Technology Roorkee",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "INSA Toulouse",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Jawaharlal Nehru University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Jeonbuk National University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kanazawa University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kaohsiung Medical University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Keele University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kindai University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Konkuk University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Lincoln University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Liverpool School of Tropical Medicine",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Loughborough University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Medical College of Wisconsin",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Memorial University of Newfoundland",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "New Jersey Institute of Technology",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "North China Electric Power University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northeast Agricultural University - China",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Novosibirsk State University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ohio University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Old Dominion University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Palacký University Olomouc",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Polytechnic University of Catalonia",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Qufu Normal University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "School for Advanced Studies in the Social Sciences",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shahid Beheshti University of Medical Sciences",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shandong Agricultural University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shanghai University of Finance and Economics",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shinshu University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Skolkovo Institute of Science and Technology",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southern Methodist University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Swarthmore College",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Syracuse University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Taiyuan University of Technology",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Technical University of Braunschweig",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Waikato",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Thomas Jefferson University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tomsk State University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Universitat de Lleida",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Universiti Teknologi Malaysia",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Agriculture Faisalabad",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Arkansas for Medical Sciences",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Bayreuth",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Brasília",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Campania Luigi Vanvitelli",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Castilla–La Mancha",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Engineering and Technology (UET)",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Hull",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Jaen",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Jordan",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Jyvaskyla",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of La Laguna",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Limerick",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Louisville",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Luebeck",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Luxembourg",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Malaga",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Murcia",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Nebraska Medical Center",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Nevada-Las Vegas",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Oviedo",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Quebec Montreal",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Salzburg",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Shanghai for Science and Technology",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Szeged",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tennessee Health Science Center",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Texas at El Paso",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of the Balearic Islands",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of the Punjab",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Toledo",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Udine",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Wisconsin-Milwaukee",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University Putra Malaysia",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ural Federal University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Vilnius University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Wenzhou University",
+        "Ranking": "701-800",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Air Force Medical University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ajou University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Al-Azhar University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Anhui University of Technology",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ankara University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Babeș-Bolyai University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Beijing Forestry University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Bournemouth University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Changzhou University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Charles Darwin University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Cranfield University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Czech Technical University in Prague",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Czech University of Life Sciences Prague",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Dokuz Eylul University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Dongguk University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Dublin City University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Ceara",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Pernambuco",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Santa Maria",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Fordham University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Free University of Bozen-Bolzano",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Gachon University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Gdansk University of Technology",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Graz University of Technology",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Gwangju Institute of Science and Technology",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Gyeongsang National University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hainan University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hebei University of Technology",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Heriot-Watt University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Indian Institute of Technology Kharagpur",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Iran University of Science & Technology",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Johannes Kepler University Linz",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kangwon National University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Khalifa University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Lehigh University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Linnaeus University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Manchester Metropolitan University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Mashhad University Medical Science",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Michigan Technological University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Miguel Hernandez University of Elche",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Monterrey Institute of Technology and Higher Education",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Montpellier Business School",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nagasaki University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nanjing University of Chinese Medicine",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nantong University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Central University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Chung Hsing University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Taiwan University of Science and Technology",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National University of Colombia",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National Yunlin University of Science and Technology",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Norwegian University of Life Sciences",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Okinawa Institute of Science and Technology Graduate University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Osaka City University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Prince of Songkla University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Prince Sattam Bin Abdulaziz University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Royal College of Surgeons - Ireland",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shandong First Medical University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shantou University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sichuan Agricultural University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southern Cross University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southwest University of Science and Technology",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Sultan Qaboos University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Education University of Hong Kong",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Royal Veterinary College",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The University of Tokushima",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Uniformed Services University of the Health Sciences - USA",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Universidade Federal de Pelotas",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University Paris Est Creteil",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Alcalá",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Cagliari",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Calabria",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Canberra",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Chieti-Pescara",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Cordoba",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Girona",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Ibadan",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Jinan",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Kassel",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Lahore",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of L'Aquila",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Magdeburg",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Messina",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Mississippi",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Missouri-Kansas City",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Mons",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of New England",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of North Carolina at Greensboro",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Oklahoma - Oklahoma City",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Portsmouth",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Savoy",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Stirling",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Thessaly",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Veterinary Medicine Vienna",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Warsaw University of Life Sciences",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Wroclaw Medical University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Yanshan University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Yokohama City University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Zagazig University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Zhejiang Sci-Tech University",
+        "Ranking": "801-900",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Adam Mickiewicz University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Aligarh Muslim University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Amherst College",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Amity University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Bocconi University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Brno University of Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Budapest University of Technology and Economics",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Carlos III University of Madrid",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China Pharmaceutical University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "China West Normal University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Chungbuk National University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Duy Tan University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ege University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Erciyes University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Bahia",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Goiás",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Federal University of Rio Grande do Norte",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ferdowsi University of Mashhad",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Fırat University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Florida Atlantic University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Foshan University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Gazi University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Guangdong University of Foreign Studies",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hallym University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hebei Medical University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Homi Bhabha National Institute",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Huaqiao University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hunan Agricultural University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Hunan University of Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Illinois Institute of Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "International School for Advanced Studies",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Iran University of Medical Sciences",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Istanbul Technical University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kafrelsheikh University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "King Juan Carlos University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Kumamoto University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Liaocheng University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Loyola University Chicago",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Manipal University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Medical University of Warsaw",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Metropolitan Autonomous University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Middle East Technical University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Missouri University of Science and Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nara Institute of Science and Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National University of La Plata",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "National University of Sciences and Technology Pakistan",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "NHH - Norwegian School of Economics",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Nicolaus Copernicus University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Northeast Normal University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ontario Tech University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Portland State University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Qilu University of Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Qingdao University of Science and Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Quaid-i-Azam University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Ryerson University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Saitama University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Shanghai Normal University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "South Dakota State University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Southwest Petroleum University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "SUNY College of Environmental Science and Forestry",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "SUNY Upstate Medical University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Technical University of Dortmund",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Technical University of Ostrava",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "The Graduate University for Advanced Studies",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tianjin University of Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tokyo University of Agriculture and Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Tuscia University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Universidad Andrés Bello",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Universidad de Cadiz",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Universidad de Las Palmas de Gran Canaria",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Universidade Federal de Mato Grosso do Sul",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Arkansas at Little Rock",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Calcutta",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Cantabria",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Concepcion",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Hertfordshire",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Insubria",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Klagenfurt",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Lincoln",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Los Andes (Colombia)",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Massachusetts Boston",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Massachusetts Lowell",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Montana - Missoula",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Novi Sad",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Rhode Island",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Salento",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of South Africa",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of South Bohemia",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tabriz",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of The Free State",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Tours",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Ulster",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Urbino",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Valladolid",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "University of Wuppertal",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Warsaw University of Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Western Norway University of Applied Sciences",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Wroclaw University of Science and Technology",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    },
+    {
+        "University": "Yantai University",
+        "Ranking": "901-1000",
+        "Source": "ARWU Ranking",
+        "Year": "2022"
+    }
+]
