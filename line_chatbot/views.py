@@ -4,6 +4,9 @@ from linebot.exceptions import InvalidSignatureError
 from linebot.models import *
 from django.views.decorators.csrf import csrf_exempt
 
+import json
+import os
+
 line_bot_api = LineBotApi('CQm0BL4z/a2K/U83zm7QbTMWGBkmjlUXvurjeYQxHXNKZy5uUmpcUzaV+xY1oM/JbDxttHOkIWtSfCucgDvtRiiSCq1p6fmx7neitBe3GZ5B11Fq8IHyUGRB2o/w3b7U4TP7miGzB9ibjyKuQhx59AdB04t89/1O/w1cDnyilFU=')
 handler = WebhookHandler('ba98c88fab9fdec489f9b5bb31e53fe0')
 
@@ -18,6 +21,26 @@ def line_webhook(request):
             return HttpResponse(status=400)
         return HttpResponse(status=200)
     return HttpResponse(status=405)
+
+
+
+def load_ranking_data(source):
+    file_path = os.path.join("rankings", f"{source}_ranking.json")
+    with open(file_path) as file:
+        return json.load(file)
+def search_university_rankings(keyword):
+    all_data = []
+    sources = ["ARWU", "QS", "THE"]
+    
+    for source in sources:
+        data = load_ranking_data(source)
+        all_data.extend(data)
+
+    keyword_lower = keyword.lower()
+    results = [entry for entry in all_data if keyword_lower in entry['University'].lower()]
+    return results
+
+
 
 @handler.add(MessageEvent, message=TextMessage)
 def handle_text_message(event):
@@ -91,17 +114,40 @@ def handle_text_message(event):
                 event.reply_token,
                 TextSendMessage(text=reply_text)
             )
+    elif "查詢學校排名" in user_message:
+            line_bot_api.reply_message(
+                event.reply_token,
+                TextSendMessage(text="請輸入學校名稱(全名)")
+            )
+            search_results = search_university_rankings(user_message)
+
+            if search_results:
+                reply_text = ""
+                for result in search_results:
+                    reply_text += f"University: {result['University']}\n"
+                    reply_text += f"QS Ranking: {result['QS_Ranking']} ({result['Year']})\n"
+                    reply_text += f"THE Ranking: {result['THE_Ranking']} ({result['Year']})\n"
+                    reply_text += f"ARWU Ranking: {result['ARWU_Ranking']} ({result['Year']})\n\n"
+            else:
+                reply_text = "No rankings found for the given university."
+
+            line_bot_api.reply_message(
+                event.reply_token,
+                TextSendMessage(text=reply_text)
+            )
 
     else:
+        # Handle other cases with a carousel template
         reply_message = TemplateSendMessage(
             alt_text="功能說明",
             template=CarouselTemplate(
                 columns=[
                     CarouselColumn(
-                        title="學校清單",
+                        title="選校",
                         text="選校",
                         actions=[
-                            MessageAction(label="學校清單", text="學校清單")
+                            MessageAction(label="學校清單", text="學校清單"),
+                            MessageAction(label="查詢學校排名", text="查詢學校排名")
                         ]
                     ),
                     CarouselColumn(
