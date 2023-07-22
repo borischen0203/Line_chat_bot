@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-o^y9lyko^f8c9c6a5w=ra$5kvdi1+x-r@1$y5jo7&2q=^z3#8!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['6a3b-2001-b400-e209-c92c-1d2e-53de-ca91-62b2.ngrok-free.app','127.0.0.1']
+# vercel_app/settings.py
+ALLOWED_HOSTS = ['6a3b-2001-b400-e209-c92c-1d2e-53de-ca91-62b2.ngrok-free.app','127.0.0.1', '.vercel.app']
 
 
 # Application definition
@@ -49,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'line_chatbot.urls'
+ROOT_URLCONF = 'vercel_app.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'line_chatbot.wsgi.application'
+WSGI_APPLICATION = 'vercel_app.wsgi.application'
 
 
 # Database

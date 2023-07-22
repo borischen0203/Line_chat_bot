@@ -16,7 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from line_chatbot.views import line_webhook
+from example.views import line_webhook
 from django.views.decorators.csrf import csrf_exempt
 
 urlpatterns = [
