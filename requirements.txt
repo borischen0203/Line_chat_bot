@@ -1,4 +1,4 @@
 line-bot-sdk
-django
+django==2.0
 requests
 selenium
