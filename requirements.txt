@@ -1,4 +1,4 @@
 line-bot-sdk
-Django==3.2
+Django >=2.2,<2.3
 requests
 selenium
