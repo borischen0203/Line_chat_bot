@@ -11,7 +11,7 @@ line_bot_api = LineBotApi('CQm0BL4z/a2K/U83zm7QbTMWGBkmjlUXvurjeYQxHXNKZy5uUmpcU
 handler = WebhookHandler('ba98c88fab9fdec489f9b5bb31e53fe0')
 
 @csrf_exempt  # Add this decorator to bypass CSRF verification for Line webhook
-def line_webhook(request):
+def callback(request):
     if request.method == 'POST':
         signature = request.headers['X-Line-Signature']
         body = request.body.decode()
@@ -34,7 +34,7 @@ def load_ranking_data(source):
 def search_university_rankings(keyword):
     all_data = []
     sources = ["ARWU", "QS", "THE"]
-    
+
     for source in sources:
         data = load_ranking_data(source)
         all_data.extend(data)
@@ -105,7 +105,7 @@ def handle_text_message(event):
                         text="可以到各校校版查詢申請進度",
                         actions=[
                             URIAction(label="The Student Room", uri="https://www.thestudentroom.co.uk/"),
-                            URIAction(label="Reddit", uri="https://www.reddit.com/?feed=home")                           
+                            URIAction(label="Reddit", uri="https://www.reddit.com/?feed=home")
                         ]
                     ),
                     CarouselColumn(
@@ -114,7 +114,7 @@ def handle_text_message(event):
                         actions=[
                             URIAction(label="一畝三分地", uri="https://www.1point3acres.com/bbs/"),
                             URIAction(label="小紅書", uri="https://www.xiaohongshu.com/search_result?keyword=%25E8%25BD%25AC%25E7%25A0%2581%25E7%2595%2599%25E5%25AD%25A6&source=web_search_result_notes"),
-                            
+
                         ]
                     ),
                     CarouselColumn(
@@ -124,7 +124,7 @@ def handle_text_message(event):
                             URIAction(label="PTT 留學版", uri="https://www.pttweb.cc/bbs/studyabroad"),
                             URIAction(label="Dcard 留學版", uri="https://www.dcard.tw/f/studyabroad"),
                         ]
-                    ),            
+                    ),
                 ]
             )
         )
@@ -175,7 +175,7 @@ def handle_text_message(event):
             event.reply_token,
             TextSendMessage(text=reply_text)
         )
-        
+
         waiting_for_university_name = False  # Reset the state after handling the input
 
 

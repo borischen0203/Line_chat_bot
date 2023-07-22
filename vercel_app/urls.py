@@ -15,11 +15,11 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
-from example.views import line_webhook
+from django.urls import path, include, re_path
+from example import views
 from django.views.decorators.csrf import csrf_exempt
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('line/webhook/', csrf_exempt(line_webhook), name='line_webhook')
+    re_path('^callback', views.callback),
 ]
