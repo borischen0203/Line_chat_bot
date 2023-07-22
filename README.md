@@ -15,6 +15,64 @@ To use our Line ChatBot for the CS conversion programme application, follow thes
 2. **Set Up Virtual Environment**:
    - Create a virtual environment based on your operating system in your preferred method. You can use `virtualenv` or `venv` to isolate dependencies.
 
+### Using `virtualenv` (Linux, macOS, and Windows):
+
+1. Install `virtualenv` if you haven't already:
+
+   ```bash
+   pip install virtualenv
+   ```
+
+2. Create a virtual environment:
+
+   ```bash
+   # For Linux and macOS
+   virtualenv venv
+
+   # For Windows
+   virtualenv venv
+   ```
+
+3. Activate the virtual environment:
+
+   ```bash
+   # For Linux and macOS
+   source venv/bin/activate
+
+   # For Windows
+   venv\Scripts\activate
+   ```
+
+### Using `venv` (Python 3.3 and later, built-in) - (Linux, macOS, and Windows):
+
+1. Create a virtual environment:
+
+   ```bash
+   # For Linux and macOS
+   python3 -m venv venv
+
+   # For Windows
+   python -m venv venv
+   ```
+
+2. Activate the virtual environment:
+
+   ```bash
+   # For Linux and macOS
+   source venv/bin/activate
+
+   # For Windows
+   venv\Scripts\activate
+   ```
+
+Once you activate the virtual environment, you can install the required packages using `pip` without affecting the system-wide Python installation. To deactivate the virtual environment, use the command:
+
+```bash
+deactivate
+```
+
+Remember to activate the virtual environment again whenever you work on your Line ChatBot project.
+
 3. **Install Dependencies**:
    - Activate the virtual environment you created in the previous step.
    - Use the `pip install` command to install all the packages listed in the `requirements.txt` file. This ensures that the necessary libraries are available for your ChatBot.
