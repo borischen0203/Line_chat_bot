@@ -23,11 +23,14 @@ def line_webhook(request):
     return HttpResponse(status=405)
 
 
+# Use the relative path to the 'rankings' directory
+RANKINGS_DIR = os.path.join(os.path.dirname(__file__), 'rankings')
 
 def load_ranking_data(source):
-    file_path = os.path.join("rankings", f"{source}_ranking.json")
-    with open(file_path) as file:
+    file_path = os.path.join(RANKINGS_DIR, f"{source}_rankings.json")
+    with open(file_path, encoding='utf-8') as file:
         return json.load(file)
+
 def search_university_rankings(keyword):
     all_data = []
     sources = ["ARWU", "QS", "THE"]
@@ -38,12 +41,51 @@ def search_university_rankings(keyword):
 
     keyword_lower = keyword.lower()
     results = [entry for entry in all_data if keyword_lower in entry['University'].lower()]
+    print("Search results:", results)  # Add this line for logging
     return results
 
+def get_university_ranking(user_message):
+    search_results = search_university_rankings(user_message)
 
+    if search_results:
+        universities = {}
+        for result in search_results:
+            university_name = result['University']
+            ranking = result['Ranking']
+            source = result['Source']
+            year = result['Year']
+
+            key = university_name
+            if key in universities:
+                existing_ranking = universities[key]
+                for i, (existing_year, existing_source, existing_rank) in enumerate(existing_ranking):
+                    if existing_year == year and existing_source == source:
+                        if ranking.isdigit() and (existing_rank == '' or not existing_rank.isdigit() or int(ranking) > int(existing_rank)):
+                            existing_ranking[i] = (year, source, ranking)
+                        break
+                else:
+                    existing_ranking.append((year, source, ranking))
+            else:
+                universities[key] = [(year, source, ranking)]
+
+        reply_text = ""
+        for university_name, rankings in universities.items():
+            sorted_rankings = sorted(rankings, key=lambda x: x[0], reverse=True)  # Sort by year in descending order
+            reply_text += f"{university_name}\n"
+            for year, source, ranking in sorted_rankings:
+                reply_text += f"{year} {source}: {ranking}\n"
+            reply_text += "\n"
+    else:
+        reply_text = "No rankings found for the given university."
+
+    return reply_text
+
+# Add a global variable to keep track of the state
+waiting_for_university_name = False
 
 @handler.add(MessageEvent, message=TextMessage)
 def handle_text_message(event):
+    global waiting_for_university_name
     user_message = event.message.text
 
     if user_message == "學校清單":
@@ -53,9 +95,9 @@ def handle_text_message(event):
             event.reply_token,
             TextSendMessage(text=reply_text)
         )
-    elif user_message == "留學資源查詢":
+    elif user_message == "留學論壇":
         reply_message = TemplateSendMessage(
-            alt_text="留學資源查詢",
+            alt_text="留學論壇",
             template=CarouselTemplate(
                 columns=[
                     CarouselColumn(
@@ -115,26 +157,27 @@ def handle_text_message(event):
                 TextSendMessage(text=reply_text)
             )
     elif "查詢學校排名" in user_message:
-            line_bot_api.reply_message(
-                event.reply_token,
-                TextSendMessage(text="請輸入學校名稱(全名)")
-            )
-            search_results = search_university_rankings(user_message)
+        waiting_for_university_name = True  # Set the state to True
+        line_bot_api.reply_message(
+            event.reply_token,
+            TextSendMessage(text="請輸入學校名稱(全名為佳)")
+        )
 
-            if search_results:
-                reply_text = ""
-                for result in search_results:
-                    reply_text += f"University: {result['University']}\n"
-                    reply_text += f"QS Ranking: {result['QS_Ranking']} ({result['Year']})\n"
-                    reply_text += f"THE Ranking: {result['THE_Ranking']} ({result['Year']})\n"
-                    reply_text += f"ARWU Ranking: {result['ARWU_Ranking']} ({result['Year']})\n\n"
-            else:
-                reply_text = "No rankings found for the given university."
+    elif waiting_for_university_name:
+        # Now the user has entered the university name after receiving the "請輸入學校名稱(全名)" message
+        # Get the university ranking information
+        print("Received university name:", user_message)  # Add this line for logging
+        reply_text = get_university_ranking(user_message)
+        print("Reply text:", reply_text)  # Add this line for logging
 
-            line_bot_api.reply_message(
-                event.reply_token,
-                TextSendMessage(text=reply_text)
-            )
+        # Send the ranking information back to the user
+        line_bot_api.reply_message(
+            event.reply_token,
+            TextSendMessage(text=reply_text)
+        )
+        
+        waiting_for_university_name = False  # Reset the state after handling the input
+
 
     else:
         # Handle other cases with a carousel template
@@ -154,16 +197,10 @@ def handle_text_message(event):
                         title="留學資源查詢",
                         text="點擊以查詢留學資源",
                         actions=[
-                            MessageAction(label="留學資源查詢", text="留學資源查詢")
-                        ]
-                    ),
-                    CarouselColumn(
-                        title="獎學金資訊",
-                        text="點擊以查看獎學金資訊",
-                        actions=[
+                            MessageAction(label="留學論壇", text="留學論壇"),
                             MessageAction(label="獎學金資訊", text="獎學金資訊")
                         ]
-                    )
+                    ),
                 ]
             )
         )
