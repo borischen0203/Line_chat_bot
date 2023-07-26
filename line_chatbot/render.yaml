@@ -1,0 +1,71 @@
+services:
+- type: web  # Change the service type to 'python'
+  name: line-chatbot-python-django  # Update the service name
+  env: 
+    PYTHON_VERSION: 3.11.4
+    # Set the environment to 'django'
+  repo: https://github.com/PeiPeiC/Line_chat_bot.git  # Update the repository URL
+  buildCommand: cd line_chat_bot; .build.sh  # Adjust the build command for Django
+  startCommand: cd line_chat_bot; gunicorn line_chatbot.wsgi:application  # Adjust the start command for Django
+  plan: free
+  autoDeploy: false
+  envVars:
+  - key: LINE_CHANNEL_ACCESS_TOKEN
+    sync: false
+  - key: LINE_CHANNEL_SECRET
+    sync: false
+  # Add any additional environment variables specific to your Django app below
+
+# the environment variables LINE_CHANNEL_ACCESS_TOKEN and LINE_CHANNEL_SECRET have been set to sync: false. This indicates that the values for these environment variables should be managed and kept confidential within the render.yaml file itself. The values won't be automatically synchronized with the Render dashboard, and any updates or changes to these values should be made directly in the render.yaml file before deploying the application.
+# - type: web
+#   name: line-bot-python-flask-with-handler
+#   env: python
+#   repo: https://github.com/line/line-bot-sdk-python.git
+#   buildCommand: cd examples/flask-echo;pip install gunicorn -r requirements.txt
+#   startCommand: cd examples/flask-echo;gunicorn app_with_handler:app
+#   plan: free
+#   autoDeploy: false
+#   envVars:
+#   - key: LINE_CHANNEL_ACCESS_TOKEN
+#     sync: false
+#   - key: LINE_CHANNEL_SECRET
+#     sync: false
+# - type: web
+#   name: line-bot-python-flask-kitchensink
+#   env: python
+#   repo: https://github.com/line/line-bot-sdk-python.git
+#   buildCommand: cd examples/flask-kitchensink;pip install gunicorn -r requirements.txt
+#   startCommand: cd examples/flask-kitchensink;gunicorn app:app
+#   plan: free
+#   autoDeploy: false
+#   envVars:
+#   - key: LINE_CHANNEL_ACCESS_TOKEN
+#     sync: false
+#   - key: LINE_CHANNEL_SECRET
+#     sync: false
+# - type: web
+#   name: line-bot-python-simple-server
+#   env: python
+#   repo: https://github.com/line/line-bot-sdk-python.git
+#   buildCommand: cd examples/simple-server-echo;pip install -r requirements.txt
+#   startCommand: cd examples/simple-server-echo;python app.py
+#   plan: free
+#   autoDeploy: false
+#   envVars:
+#   - key: LINE_CHANNEL_ACCESS_TOKEN
+#     sync: false
+#   - key: LINE_CHANNEL_SECRET
+#     sync: false
+# - type: web
+#   name: line-bot-python-aiohttp
+#   env: python
+#   repo: https://github.com/line/line-bot-sdk-python.git
+#   buildCommand: cd examples/aiohttp-echo;pip install -r requirements.txt
+#   startCommand: cd examples/aiohttp-echo;python app.py
+#   plan: free
+#   autoDeploy: false
+#   envVars:
+#   - key: LINE_CHANNEL_ACCESS_TOKEN
+#     sync: false
+#   - key: LINE_CHANNEL_SECRET
+#     sync: false
