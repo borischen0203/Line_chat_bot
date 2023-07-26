@@ -5,7 +5,7 @@ services:
     PYTHON_VERSION: 3.11.4
     # Set the environment to 'django'
   repo: https://github.com/PeiPeiC/Line_chat_bot.git  # Update the repository URL
-  buildCommand: cd line_chatbot; build.sh  # Adjust the build command for Django
+  buildCommand: cd line_chatbot; chmod +x build.sh;build.sh  # Adjust the build command for Django
   startCommand: cd line_chatbot; gunicorn line_chatbot.wsgi:application  # Adjust the start command for Django
   plan: free
   autoDeploy: false
