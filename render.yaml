@@ -2,7 +2,7 @@ services:
 - type: web  # Change the service type to 'python'
   name: line-chatbot-python-django  # Update the service name
   env: 
-    PYTHON_VERSION: 3.11.4
+    PYTHON_VERSION: "3.11.4"
     # Set the environment to 'django'
   repo: https://github.com/PeiPeiC/Line_chat_bot.git  # Update the repository URL
   buildCommand: chmod +x build.sh;build.sh  # Adjust the build command for Django
