@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "line-chatbot"
+version = "0.1.0"
+description = ""
+authors = ["Ophelia"]
+readme = "README.md"
+packages = [{include = "line_chatbot"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+django = "^4.2.3"
+line-bot-sdk = "^3.1.0"
+selenium = "^4.10.0"
+gunicorn = "^21.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
